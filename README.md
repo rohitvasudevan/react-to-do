@@ -2,11 +2,13 @@
 React App
 
 Introduction
+
 This project implements the Front-End for a simple To-Do List web application, using the React JS library, and also Styled Components replacing pure CSS.
 It includes the login page and the general UI of the app.
 The login authentication logic and the tasks database for each user are not implemented, since this project aims to be a Front-End study only.
 
 Features
+
 • Login page, including Sign In button, which redirects to the main application;
 • Application UI with navigation sidebar and area for the to-do list;
 • Add new task, setting name and categories properties;
@@ -16,9 +18,12 @@ Features
 • Filter tasks showing in the to-do list by their categories, via selecting on the sidebar;
 • Authorization: user cannot access home page before login, neither login page after logged.
 
-Observation: currently, the "edit task" and adding or removing categories functionalities are not implemented, since I considered it wouldn't contribute that much to my personal learning, and would be very time consuming. Maybe I'll implement this later on.
+Observation
+
+Currently, the "edit task" and adding or removing categories functionalities are not implemented, since I considered it wouldn't contribute that much to my personal learning, and would be very time consuming. Maybe I'll implement this later on.
 
 Usage
+
 If you want to try this project yourself:
 
 Install Node on your machine, via https://nodejs.org/en/.
