@@ -17,7 +17,6 @@ The login authentication logic and the tasks database for each user are not impl
 • Filter tasks showing in the to-do list by their categorie, via selecting on the sidebar; <br/>
 • Authorization: user cannot access home page before login, neither login page after logged. <br/>
 
-Observations: currently, the "edit task" and adding or removing categories functionalities are not implemented, since I considered it wouldn't contribute that much to my personal learning, and would be very time consuming. Maybe I'll implement this later on.
 
 ## Usage
 If you want to try this project yourself:
